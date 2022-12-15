@@ -6,7 +6,7 @@ Besides, I´m starting my stage as PHD student at the University of Seville 🔬
 
 
 ## 42
-🌱 Also, I’m currently learning in 42 Málaga Fundación Telefónica. This amazing formative project allows us to learn about different programming languages, video-games, virtualization, AI, etc. Also, the P2P methodlogy and the cooperative spirit in the Campus is amazing!! You can see more about this project here: 🔗 https://www.42malaga.com <br />
+🌱 Also, I’m currently learning in 42 Málaga Fundación Telefónica (antdelga user). This amazing formative project allows us to learn about different programming languages, video-games, virtualization, AI, etc. Also, the P2P methodlogy and the cooperative spirit in the Campus is amazing!! You can see more about this project here: 🔗 https://www.42malaga.com <br />
 In my profile you will see all my work in 42 projects as I progress.
 
 - 📫 How to reach me: <br />
