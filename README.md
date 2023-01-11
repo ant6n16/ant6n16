@@ -2,7 +2,7 @@
 
 ## Work
 💼 I´m Telecommunication Engineer 📡 and I´m currently working as researcher in different projects related to the using of Deep Learning in the forensic study of work of arts 🖼️. <br /> 
-Besides, I´m starting my stage as PHD student at the University of Seville 🔬. 
+Besides, I´m developing my stage as PHD student at the University of Seville 🔬. 
 
 
 ## 42
