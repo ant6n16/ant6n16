@@ -9,7 +9,7 @@ Besides, I´m developing my stage as PHD student at the University of Seville �
 🌱 Also, I’m currently learning in 42 Málaga Fundación Telefónica (antdelga user). This amazing formative project allows us to learn about different programming languages, video-games, virtualization, AI, etc. Also, the P2P methodlogy and the cooperative spirit in the Campus is amazing!! You can see more about this project here: 🔗 https://www.42malaga.com <br />
 In my profile you will see all my work in 42 projects as I progress.
 
-https://badge.mediaplus.ma/black/antdelga?1337Badge=off&UM6P=off
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/antdelga?1337Badge=off&UM6P=off" alt="antdelga's 42 stats" /></a>
 
 - 📫 How to reach me: <br />
 ✉️ ant6n16@gmail.com <br />
