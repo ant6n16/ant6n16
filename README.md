@@ -1,5 +1,7 @@
 # Hi there, I´m Antonio 👋
 
+In this repository you can find the different projects that I have carried out both in my student stage and in my work stage as a researcher.
+
 ## Work
 💼 I´m Telecommunication Engineer 📡 and I´m currently working as researcher in different projects related to the using of Deep Learning in the forensic study of work of arts 🖼️. <br /> 
 Besides, I´m developing my stage as PHD student at the University of Seville 🔬. 
