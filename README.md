@@ -15,7 +15,7 @@ In my profile you will see all my work in 42 projects as I progress.
 
 - 📫 How to reach me: <br />
 ✉️ ant6n16@gmail.com <br />
-🔗 https://www.linkedin.com/in/antonio-delgado-bejarano-0b290917b/
+🔗 www.linkedin.com/in/ant6n16-telecomengineer
 
 
 <!--
